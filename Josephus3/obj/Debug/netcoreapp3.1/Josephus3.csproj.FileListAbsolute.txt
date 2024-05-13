@@ -1,0 +1,17 @@
+C:\Users\student\source\repos\Josephus3\Josephus3\bin\Debug\netcoreapp3.1\Josephus3.exe
+C:\Users\student\source\repos\Josephus3\Josephus3\bin\Debug\netcoreapp3.1\Josephus3.deps.json
+C:\Users\student\source\repos\Josephus3\Josephus3\bin\Debug\netcoreapp3.1\Josephus3.runtimeconfig.json
+C:\Users\student\source\repos\Josephus3\Josephus3\bin\Debug\netcoreapp3.1\Josephus3.runtimeconfig.dev.json
+C:\Users\student\source\repos\Josephus3\Josephus3\bin\Debug\netcoreapp3.1\Josephus3.dll
+C:\Users\student\source\repos\Josephus3\Josephus3\bin\Debug\netcoreapp3.1\Josephus3.pdb
+C:\Users\student\source\repos\Josephus3\Josephus3\obj\Debug\netcoreapp3.1\Josephus3.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Josephus3\Josephus3\obj\Debug\netcoreapp3.1\Josephus3.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Josephus3\Josephus3\obj\Debug\netcoreapp3.1\Josephus3.AssemblyInfo.cs
+C:\Users\student\source\repos\Josephus3\Josephus3\obj\Debug\netcoreapp3.1\Josephus3.dll
+C:\Users\student\source\repos\Josephus3\Josephus3\obj\Debug\netcoreapp3.1\Josephus3.pdb
+C:\Users\student\source\repos\Josephus3\Josephus3\obj\Debug\netcoreapp3.1\Josephus3.genruntimeconfig.cache
+C:\Users\student\source\repos\Josephus3\Josephus3\bin\Debug\netcoreapp3.1\Josephus3.dll.config
+C:\Users\student\source\repos\Josephus3\Josephus3\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\student\source\repos\Josephus3\Josephus3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\source\repos\Josephus3\Josephus3\obj\Debug\netcoreapp3.1\Josephus3.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Josephus3\Josephus3\obj\Debug\netcoreapp3.1\Josephus3.csproj.CopyComplete
